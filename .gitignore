@@ -1,0 +1,5 @@
+# Ignore the 3 standalone repositories so root tracks org-level docs cleanly
+SmartContracts/
+Backend/
+Frontend/
+.DS_Store
