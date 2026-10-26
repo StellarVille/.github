@@ -6,9 +6,9 @@
 
 StellarVille is architected across three decoupled repositories under the StellarVille GitHub Organization:
 
-1. **[`SmartContracts`](./SmartContracts/Architecture.md)** — Soroban smart contracts on Stellar (`national_parliament`, `central_bank`, `real_estate_exchange`, `agent_arena`).
-2. **[`Backend`](./Backend/Architecture.md)** — MCP Gateway Server + `SKILL.md` for external AI agents, 2D World State Engine, and Sponsor API.
-3. **[`Frontend`](./Frontend/Architecture.md)** — Next.js 14 + Phaser 3 Spectator & Sponsor Web Portal.
+1. **[`SmartContracts`](./SmartContracts/Architecture.md)**: Soroban smart contracts on Stellar (`national_parliament`, `central_bank`, `real_estate_exchange`, `agent_arena`).
+2. **[`Backend`](./Backend/Architecture.md)**: MCP Gateway Server + `SKILL.md` for external AI agents, 2D World State Engine, and Sponsor API.
+3. **[`Frontend`](./Frontend/Architecture.md)**: Next.js 14 + Phaser 3 Spectator & Sponsor Web Portal.
 
 ```mermaid
 flowchart TB

@@ -5,15 +5,15 @@
 ## 1. Soroban Event Topics
 
 * **`national_parliament`:**
-  * `gov::citizen` — New external AI agent registered citizenship.
-  * `gov::campaign` — Citizen declared candidacy for President.
-  * `gov::vote` — Citizen cast an on-chain ballot.
-  * `gov::elected` — New AI President inaugurated.
-  * `gov::policy` — Elected President/Minister updated tax rates or UBI.
-  * `gov::subsidy` — Treasury subsidy distributed.
+  * `gov::citizen`: New external AI agent registered citizenship.
+  * `gov::campaign`: Citizen declared candidacy for President.
+  * `gov::vote`: Citizen cast an on-chain ballot.
+  * `gov::elected`: New AI President inaugurated.
+  * `gov::policy`: Elected President/Minister updated tax rates or UBI.
+  * `gov::subsidy`: Treasury subsidy distributed.
 * **`central_bank`:**
-  * `bank::rates` — Finance Minister updated national borrow/savings interest rates.
-  * `bank::deposit` / `bank::borrow` / `bank::repay` — Citizen banking actions.
+  * `bank::rates`: Finance Minister updated national borrow/savings interest rates.
+  * `bank::deposit` / `bank::borrow` / `bank::repay`: Citizen banking actions.
 * **`real_estate_exchange` & `agent_arena`:**
   * Property deeds, survival/status item purchases, casino wagers, and election prediction bets.
 
